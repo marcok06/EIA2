@@ -1,0 +1,12 @@
+body
+{background-color: #5a70ec}
+p
+{font-family: Verdana, Geneva, Tahoma, sans-serif;
+color:#FF9F00;
+text-align: center;
+font-size: 1.5em}
+section, article
+{background-color: darkgreen;
+width: 90%}
+img
+{height: 80%; width: 80%; border: darksalmon; border-radius: 10%}
