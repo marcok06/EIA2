@@ -9,4 +9,4 @@ section, article
 {background-color: darkgreen;
 width: 90%}
 img
-{height: 80%; width: 80%; border: darksalmon; border-radius: 90%}
+{align-content: center; height: 50%; width: 50%; border: darksalmon; border-radius: 90%}
