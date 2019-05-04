@@ -1,0 +1,97 @@
+header
+{
+    width: 100%;
+    clear: left;
+    background-color: #2f4f4f;
+}
+
+h1
+{
+    text-align: center;
+    font-size: 5em;
+    color: rgb(255, 255, 255);
+    margin: 0%
+}
+
+ul
+{
+    text-align: center;
+    list-style-type: none;
+    padding: 5px;
+    background-color: rgb(163, 163, 163)
+}
+
+li
+{
+    color: black;
+    display: inline;
+}
+    li:hover
+    {
+        text-decoration: underline;
+        cursor: pointer;
+        background-color: dimgrey
+    }
+
+aside
+{
+    width: 20%;
+    background-color: rgb(163, 163, 163);
+    overflow: auto;
+    z-index: 100;
+}
+
+.left
+{
+    float: left
+}
+    .left:hover
+    {
+        width: 25%;
+        position: absolute;
+        transition: 300ms    
+    }
+    
+
+.right
+{
+    float: right;
+}
+
+main
+{
+    width: 60%;
+    background-color: #2f4f4f;
+    margin-left: 20%;
+}
+
+section
+{
+    float: left;
+    width: 32%;
+    height: 200px;
+    overflow: auto;
+    margin: 0.25%;
+    padding: 0.25%
+}
+    .F
+    {background-color: firebrick}
+    .W
+    {background-color: rgb(46, 55, 139)}
+    .E 
+    {background-color: rgb(83, 31, 0)}
+    .L 
+    {background-color: skyblue}
+
+footer
+{
+    width: 100%;
+    text-align: center;
+    background-color: #2f4f4f;
+    float: left
+}
+
+body
+{
+    background-color: rgb(45, 62, 68)
+}
