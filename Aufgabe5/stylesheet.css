@@ -25,6 +25,8 @@ li
 {
     color: black;
     display: inline;
+    font-size: 3em;
+    padding: 10px
 }
     li:hover
     {
